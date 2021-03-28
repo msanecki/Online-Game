@@ -1,0 +1,8 @@
+Date: 28.03.2021
+Coding: Filip Winkler
+Documentation and support: Marcin Sanecki
+
+This game is written in C# and uses Unity engine. 
+This is a multiplayer network game. The cloud side is supported by TODO: Filip ()
+
+
